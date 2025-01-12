@@ -5,7 +5,7 @@ import sys
 from pyngrok import ngrok
 
 # Paste your token here
-ngrok.set_auth_token("2rX6LE5Y9hL5q8h2zLR5ExJ2DTg_5vg5rW8YFQT7uWFkCRKfk")
+ngrok.set_auth_token(" ")
 
 from pyngrok import ngrok
 import time
